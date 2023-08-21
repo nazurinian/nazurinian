@@ -1,4 +1,9 @@
-### Hi there 👋
+# Halo semua! 👋
+
+Perkenalkan nama saya **Abdullah Hikam**.
+- Saya seorang **Junior Android Developer**.
+- Saya mahasiswa S1 program Teknik Informatika dari Universitas 17 Agustus 1945 Surabaya.\
+- Saat ini sebagai mahasiswa saya masih berada di tahap pembelajaran dan bergabung dalam program Bangkit Academy 2023 By Google, GoTo, Traveloka - Android Learning Path untuk meningkatkan dan memperdalam pengetahuan serta mengasah skill saya sebagai Developer Android.
 
 <!--
 **nazurinian/nazurinian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
